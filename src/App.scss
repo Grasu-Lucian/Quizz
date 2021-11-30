@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #702632;
+    color:#080705;
+    font-size: 2rem;
+}
+.app{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+.question-section{
+    background-color: #912F40;
+    padding: 70px;
+    border-radius: 10px;
+border:4px solid #581c26;
+}
+button{
+    outline:none;
+    background-color: #40434E;
+    border:2px solid #373942;
+    border-radius: 10px;
+    font-size: 2rem;
+    transition: ease-in-out 0.25s;
+&:hover{
+    background-color: #353741;
+}
+
+}
+}

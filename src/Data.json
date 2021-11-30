@@ -1,0 +1,25 @@
+{
+  "data": [{
+      "question":"Which army rank can also mean COMPREHENSIVE?",
+      "id1": "false",
+      "answer1":"Sergeant",
+      "id2": "true",
+      "answer2":"General",
+      "id3": "false",
+      "answer3":"Colonel",
+      "id4": "false",
+      "answer4":"Private"
+  },
+  {
+    "question":"Who was John Steed's first regular sidekick in the 1960s popular TV show 'The Avengers'?",
+    "id1": "true",
+    "answer1":"Cathy Gale",
+    "id2": "false",
+    "answer2":"Tara King",
+    "id3": "false",
+    "answer3":"Emma Peel",
+    "id4": "false",
+    "answer4":"Carol Wilson"
+}
+  ]
+}
